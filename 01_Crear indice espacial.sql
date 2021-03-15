@@ -1,1 +1,0 @@
-CREATE INDEX nombre_indice_espacial ON esquema.tabla USING GIST (campo_de_la_geometria);

@@ -1,0 +1,1 @@
+create table esquema.nombrecapa (nombrecampo tipodecampo, nombrecampo tipodecampo, nombrecampogeometria geometry (point, SRID));
